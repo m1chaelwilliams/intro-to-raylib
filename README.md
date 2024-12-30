@@ -1,5 +1,7 @@
 # Intro to Raylib
 
+Assets from [O_LOBSTER](https://o-lobster.itch.io/platformmetroidvania-pixel-art-asset-pack). Please consider supporting them if you use these for a commercial game.
+
 ## Tools to download before starting
 
 GCC (which comes with gcc and g++):
@@ -16,9 +18,9 @@ https://git-scm.com/downloads
 
 ## Raylib WIKI
 
-MacOS: https://github.com/raysan5/raylib/wiki/Working-on-macOS
-Windows: https://github.com/raysan5/raylib/wiki/Working-on-Windows
-Linux: https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux
+- MacOS: https://github.com/raysan5/raylib/wiki/Working-on-macOS
+- Windows: https://github.com/raysan5/raylib/wiki/Working-on-Windows
+- Linux: https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux
 
 If you're on Windows and finding that installing make and gcc is difficult, I recommend looking into a package manager. Chocolately (https://chocolatey.org/) is a good, popular option.
 
